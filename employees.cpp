@@ -1,3 +1,10 @@
+/*
+        This file is still a work in progress. 
+            - Convert ticks to hours
+            - allow the program to write to a file to write all the information from every loop
+*/
+
+
 #include <iostream>
 #include <ctime>
 #include <stdlib.h>
